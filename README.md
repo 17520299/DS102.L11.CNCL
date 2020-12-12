@@ -7,4 +7,9 @@
 |  3  | Nguyễn Phi Khải | 17520608 | |
 
 ## Project Computer Vision with Detectron2.
-1. 
+1. Some summary about project.
+* What is Detectron2.
+* What is Faster RCNN algorithm.
+* Dataset used in project.
+2. Step by Step to implement project.
+3. Conclusion.
