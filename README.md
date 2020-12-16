@@ -25,7 +25,9 @@
    * Dataset is used in project.
 
 2. **Step by Step to implement project.**
-   * We retrieve some infomation from xml file such as class(<name></name>), xmin, xmax, ymin, ymax and write them to txt file.(main.py file)
-   * After that we tranform it to json.
-   * Finally, we have enough data to go on to step 3.
+   * [We retrieve some infomation from xml file such as class(<name></name>), xmin, xmax, ymin, ymax and write them to txt file.(main.py file)](https://www.youtube.com/watch?v=IFh6jefTaK8)
+   * [After that we tranform it to json.](https://www.youtube.com/watch?v=AKqYt1NRx2g)
+   * [Step 3, reorganize folder dataset.](https://www.youtube.com/watch?v=Dn64iAAPmwY)
+   * [Step 4, Let start how to train an Object Detection Model in Detectron2.](https://www.youtube.com/watch?v=U-YhhaTHp9Y&t=269s)
+   * [Final Step, Predict on Test dataset with Trained Model.](https://www.youtube.com/watch?v=0NqptvRi3x0&t=117s)
 3. **Conclusion.**
