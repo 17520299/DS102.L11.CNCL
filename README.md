@@ -25,4 +25,7 @@
    * Dataset is used in project.
 
 2. **Step by Step to implement project.**
+   * We retrieve some infomation from xml file such as class(<name></name>), xmin, xmax, ymin, ymax and write them to txt file.(main.py file)
+   * After that we tranform it to json.
+   * Finally, we have enough data to go on to step 3.
 3. **Conclusion.**
